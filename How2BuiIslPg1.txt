@@ -1,0 +1,53 @@
+<DOCTYPE html>
+<lang = "en">
+
+  <head>
+    <meta charset = "UTF-8">
+    <title>How to Build an Island</title>
+    <style type = "text/css">
+      body {
+        background-image: url("fmtxtr2.png");
+      }
+      hl {
+        background-color: white;
+      }
+    </style>
+  </head>
+
+  <body>
+
+<h1>How to Build an Island</h1>
+
+<p>If we want to rebuild islands or coastal land currently sinking/degrading due to global warming/sea-level rise/erosion etc, what would be the best way to do it, i.e. the easiest/cheapest/most reliable approach? Using reinforced concrete/steel/landfill and similar heavy engineering wouldn't conform to any of the ease/cheapness/reliability criteria (no, not even reliability - consider what happens to most sea 'defences' over time, even the heaviest). If we are to start by disallowing standard construction, what are we left with? .. well, here is one approach, starting with a</p>
+
+Floating Artificial Reef: This is an extension of floating marinas and similar structures. The simple idea on which the whole reef is based is a large bouyant spar or pontoon consisting of a foam body with a tough external wrap, manufactured at low cost largely from recycled waste. The reef uses structures in the form of triangles and chains which are designed to resist deformation, made from two types of spar; these structures also have a basic elastomeric character, reinforced by liberal use of old tyres and other energy absorbers, which enable them to deflect and absorb wave and storm action, and have sea anchors to improve stability and provide inertial damping to enhance wave resistence. The artificial reef is designed to be like a salt marsh or mangrove forest, reducing the force of tides and storms without sustaining significant damage itself - though its cheap components and modular design mean that repairs are not as expensive as those for more monolithic structures. This leads on to 
+
+Artificial Islands: These are a (large) extension of the artificial reef, based on the same idea of rugged permanently bouyant structures, but with a larger range of modules corresponding to the increased range of activities. Islands could be constructed for many purposes, some more specialised than others: floating solar arrays/crop plantations; desalination plants for desert coasts or coastal cities; plants for mining chemicals from sea-water; luxury hotels .. and so on.
+
+The island described here is more multi-purpose, intended not only to provide new habitation areas to replace sinking/flooding land, both islands and coastal areas, but also to utilise waste materials by reconstituting them as bouyancy foam or composites, and to absorb a large amount of carbon dioxide by increasing the biological productivity of the stretches of coast or ocean it is placed on.
+
+The design described at the end of the Construction Section following is a general-purpose one, though orientated towards providing harbour facilities near a coastal population, so it is assumed that large numbers of boats will use the island and the islanders will use boats as their major form of transport. It is also assumed that resident islanders will be largely self-sufficient for food and water, i.e. as well as residential areas there will also be agricultural and aquacultural areas, as well as associated food processing and desalination facilities.
+
+So far we have:
+A resident population (i.e. a permanent population, not a transient one as on an oil rig)
+Harbourage for small, medium and large boats - but not supertankers, the island isn't designed for heavy equipment on that scale
+Agriculture, probably a mix of hydroponic and artificial soil culture
+Aquaculture, but probably simpler than something as resource intensive as fish farming, instead concentrating on  seaweed, shellfish and some 'natural' fishing of the increased stocks that develop around structures
+Processing facilities, including food processing and desalination.
+
+Building such an island, in effect, converts waste to land!
+
+By converting waste paper, plastics and glass into high-specification structural foams and composites, we can build inexpensive floating structures in a wide range of designs which have a useful lifespan. There are three physical pre-requisites for this:
+
+Permanent buoyancy: provided by very tough, long-lived foam modules, which are highly UV, fire and seawater resistant
+Stability: provided mainly by sea anchors not rigidly attached to the seabed, but also as a by-product of careful design
+Avoidance of wave and storm damage: absorbing and dissipating wave and wind energy by reacting to it with controlled resistance.
+
+How do we do this?
+
+MATERIALS - what will the island be made of?
+CONSTRUCTION - how can we build it?
+FUNCTIONALITY - how can we make it livable?
+
+  </body>
+</html>

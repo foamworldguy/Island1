@@ -1,0 +1,29 @@
+Secondly, Construction: there are four key aspects for a practical design:
+Modularity
+Loose coupling
+'Weather' resistance
+'Fouling' resistance
+
+Taking these in order:
+
+Modularity: the island needs to be a highly modular structure, easily assembled from simple components made from the materials described above. Perhaps the simplest practicable design, suggested above, is to have just two buoyancy units (as opposed to modules for area cover/residential domes/greenhouses etc., which sit on top of the buoyancy units while not generating buoyancy themselves), one shaped like a shoe-box (SPAR) and the other like a wedge of cheese (CORNER), the latter being a connector to connect two SPARs together, at an angle of, say, sixty degrees, or three or four SPARs together with two CORNERS attached back-to-back. From this you can construct, e.g. triangular and hexagonal rings of SPARs, or almost any other shape.
+
+Loose coupling: modules need to be strongly yet loosely coupled to absorb wave energy (including storm waves!) without incurring long-lasting damage (i.e. no more than readily repaired wear and tear); by using hawsers attached to the outside of SPARs and CORNERs, and walkways with flexible joins (e.g. rope/net walks), the shape of structures can be strongly held while still allowing individual units to move and absorb wave energy; this would be enhanced with inertial damping provided by water anchors attached to every buoyancy unit. Provision of unit-to-unit energy absorption could be as simple as tyre nets.
+
+'Weather' resistance: for people to live comfortably on a floating island it will be necessary to ameliorate the effects of constant wave and wind action, including reducing the impact of storms and heavy swells (this last also applies to harboured boats and the islands own structures!); so all permanent structures need to be intrinsically wind and storm resistant, which indicates the use of curved rather than flat and smooth rather than rough surfaces, the ideal structure in that case being a smooth sphere, and the most practical version of that being a smooth-skinned geodesic dome or dome cap. Similarly the ideal shape for the whole island would be circular, but a simpler and more practical shape would be a hexagon or other regular polygon, with an outer protective ring as in the design proposed below.
+
+'Fouling' resistance: modules need to be functionally impervious to the build-up of marine organisms, i.e. fouling, which is to be encouraged rather than removed, to improve marine productivity; attachment points which need to be kept clean or equipment which can be damaged or made inoperative by fouling needs to be elevated above the average daily level of the waves; generally, most expected uses of these structures won't be affected adversely by the build-up of marine organisms, which will improve the stability of structures by increasing their weight and hence inertia, as well as increasing marine productivity in their vicinity. Having said that, it is inevitable that some cleaning, i.e. removal of marine encrustation, will be needed!
+
+An Initial Island Design: the island consists of a series of concentric rings surrounding a central harbour, with different activities concentrated in particular rings:
+
+The central harbour has several marinas attached to the surrounding harbour front, which contain moorings for small and medium-sized boats;
+
+The rings are of two types, those containing facilities for specific activities - activity rings, such as the harbour ring itself, and transport rings - ringways - consisting of a canal and roadway with bridges to allow boat access and vehicle crossing; ringways are provided as necessary for easy access to all areas (and to create open water between surface structures for marine growth). Activity Rings, working from the harbour ring outwards, are:
+
+The Harbour Ring, complete with its marinas attached to the harbour front;
+The Boat Services Ring of boat maintenance and provisioning services at the  rear of the harbour ring (surrounded in turn by the first transport ringway);
+The Residential Ring of housing and 'village' centres, placed as near the centre as practicable for protection from heavy seas;
+The Agricultural Ring with greenhouses, hydroponics etc.;
+ The Commercial/Industrial Ring with professional, processing and warehousing facilities;
+
+The final, outer, ring, is a much wider one largely consisting of aquaculture areas for growing seaweeds and shellfish, with some associated structures and berthing facilities for larger boats; this outer ring has a secondary (though major) function of damping waves and storms to protect the inner facilities.
