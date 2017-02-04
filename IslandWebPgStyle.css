@@ -28,7 +28,7 @@ body >  h1 {
 #all {
   background-color: white;  /* Over-ride the background */
   width: 800px;
-  height: 650px;
+  height: 700px;
   margin-top: -20px;
   margin-left: auto;
   margin-right: auto;
@@ -175,7 +175,7 @@ h2 {
   background-image: /* Add a colour-gradient background */
     linear-gradient(rgb(204,204,255), rgb(193,255,255));
   width: 50%;
-  height: 200%;
+  height: 250%;
   margin-left: auto;
   margin-right: auto;
   padding-left: .5em;
