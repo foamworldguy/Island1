@@ -10,7 +10,7 @@ body >  h1 {
 
 /* Background image of core island */
       body {
-        background-image: url("images/Island.png");
+        background-image: url("images/Island1.png");
       }
 
 
@@ -48,7 +48,7 @@ body >  h1 {
   padding: 0 1em;
 }
 
-/* Columns, footer and footer columns for initial page */
+/* Columns for 4-column pages */
 /* Leftmost column */
 #left {
   float: left;
@@ -76,12 +76,16 @@ body >  h1 {
   padding-right: .5em;
 }
 
+/* Rightmost column */
+
 #right {
   float: left;
   width: 23%;
   height: 60%;
   padding-left: .5em;
 }
+
+/* Footer and footer columns */
 
 #footer {
   width: 100%;
@@ -121,6 +125,38 @@ h2 {
   width: 30%;
   padding-left: .5em;
 }
+
+
+/* New [240218] 3-column layout for restructured webpages */
+/* Leftmost column */
+#left3 {
+  float: left;
+  width: 31%;
+  clear: left;
+  height: 60%;
+  padding-left: 1em;
+  padding-right: .5em;
+}
+
+/* Middle column */
+#middle3 {
+  float: left;
+  width: 31%;
+  height: 60%;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+/* Rightmost column */
+
+#right3 {
+  float: left;
+  width: 31%;
+  height: 60%;
+  padding-left: .5em;
+}
+
+
 
 
 /* Header and columns (no footer!) for 2nd-level 3-column pages, 
